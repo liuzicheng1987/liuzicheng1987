@@ -12,6 +12,6 @@ Additionally, I am the main author of [reflect-cpp](https://github.com/getml/ref
 
 I am a strong proponent of functional programming and am greatly influenced by theoretical constructs such as category theory and type theory.
 
-Outside of coding, I enjoy reading, particularly on topics like history, politics, language, and, of course, coding. I also enjoy reading novels, with some of my favorite books being "Animal Farm" and "Homage to Catalonia" by George Orwell, and "Die Revolution entläßt ihre Kinder" by Wolfgang Leonhard.
+Outside of coding, I enjoy reading, particularly on topics like history, politics, language, and, of course, coding. I also enjoy reading novels, with some of my favorite books being "Animal Farm" and "Homage to Catalonia" by George Orwell, and "Die Revolution entläßt ihre Kinder" by Wolfgang Leonhard. In addition to reading, I very much enjoy music, particularly jazz, with my favorite artists being Miles Davis, Keith Jarrett, Brad Mehldau, and John Coltrane.
 
 Feel free to explore my repositories and projects. I'm always open to collaboration and discussion!
