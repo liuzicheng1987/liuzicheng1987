@@ -6,7 +6,7 @@ I spent 10 years living in Asia, which is why I have a Chinese name and my GitHu
 
 I hold a doctoral degree, with my dissertation focusing on machine learning.
 
-I am the co-founder of [Code17]([https://code17.de](https://www.code17.io)), where we develop [getML](https://www.getml.com), an advanced tool for automated feature engineering on relational data and time series.
+I am the co-founder of [Code17](https://www.code17.io), where we develop [getML](https://www.getml.com), an advanced tool for automated feature engineering on relational data and time series.
 
 Additionally, I am the main author of [reflect-cpp](https://github.com/getml/reflect-cpp), a C++ library for serialization, deserialization, and validation through reflection. This library is akin to Python's Pydantic or Rust's serde, offering powerful and flexible solutions for C++ developers.
 
