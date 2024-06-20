@@ -12,6 +12,6 @@ Additionally, I am the main author of [reflect-cpp](https://github.com/getml/ref
 
 I am a strong proponent of functional programming and am greatly influenced by theoretical constructs such as category theory and type theory. One of my favourite books on programming is [Category Theory for Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf) by [Bartosz Milewski](https://github.com/BartoszMilewski).
 
-Outside of coding, I enjoy reading, particularly on topics like history, politics, language, and, of course, computer science. I also enjoy reading novels, with some of my favourite books being "Animal Farm" and "Homage to Catalonia" by George Orwell, and "Die Revolution entlässt ihre Kinder" by Wolfgang Leonhard. In addition to reading, I very much enjoy music, particularly jazz, with my favourite artists being Miles Davis, Keith Jarrett, Brad Mehldau, and John Coltrane.
+Outside of coding, I enjoy reading, particularly on topics like history, politics, language, and, of course, computer science. I also enjoy reading novels, with some of my favourite books being "Animal Farm" and "Homage to Catalonia" by George Orwell, and "Die Revolution entlässt ihre Kinder" by Wolfgang Leonhard. In addition to reading, I very much enjoy music, particularly jazz, with my favourite artists being Miles Davis, Keith Jarrett, Alfa Mist, Brad Mehldau, and John Coltrane.
 
 Feel free to explore my repositories and projects. I'm always open to collaboration and discussion!
